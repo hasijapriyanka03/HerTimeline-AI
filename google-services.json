@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626056711046",
+    "project_id": "mensa-c9679",
+    "storage_bucket": "mensa-c9679.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626056711046:android:c8c53c588af32a4188ba07",
+        "android_client_info": {
+          "package_name": "com.mensa.health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwPUzQCOLdgNg_b1CcMi4Co1DiiY-9HOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

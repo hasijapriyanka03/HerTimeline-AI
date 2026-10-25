@@ -1,0 +1,93 @@
+# Privacy Policy for Mensa - Women's Health
+
+**Last Updated: December 2025**
+
+## Introduction
+
+Mensa ("we," "us," "our," or "Company") operates the Mensa mobile application (the "App"). This Privacy Policy explains our practices regarding the collection, use, and protection of your information.
+
+## 1. Information We Collect
+
+### 1.1 Camera Permission
+- **Purpose**: The App requests camera access to allow users to capture photos for medical reports and health documentation.
+- **Usage**: Camera data is only used when you explicitly choose to take photos within the App.
+- **Storage**: Photos are stored locally on your device and can be uploaded to our secure servers only with your consent.
+
+### 1.2 Audio Permission
+- **Purpose**: Audio recording is used for voice notes and health-related voice dumps.
+- **Usage**: Audio is recorded only when you initiate recording within the App.
+- **Storage**: Audio files are stored locally and encrypted.
+
+### 1.3 Location Data
+- **Purpose**: Location data may be collected for health tracking and appointment reminders.
+- **Usage**: Location is only accessed when you enable location services for specific features.
+
+### 1.4 Health Information
+- **Purpose**: The App collects menstrual cycle data, health metrics, and medical history.
+- **Usage**: This data is used to provide personalized health insights and reminders.
+- **Storage**: All health data is encrypted and stored securely.
+
+## 2. How We Use Your Information
+
+- To provide and improve the App's functionality
+- To send health reminders and notifications
+- To generate health reports and insights
+- To comply with legal obligations
+- To protect user safety and security
+
+## 3. Data Security
+
+We implement industry-standard security measures including:
+- End-to-end encryption for sensitive data
+- Secure authentication mechanisms
+- Regular security audits
+- Compliance with data protection regulations
+
+## 4. Data Sharing
+
+We do **not** share your personal health information with third parties except:
+- With your explicit consent
+- When required by law
+- With healthcare providers you authorize
+- With service providers who assist us (under strict confidentiality agreements)
+
+## 5. Your Rights
+
+You have the right to:
+- Access your personal data
+- Request correction of inaccurate data
+- Request deletion of your data
+- Opt-out of non-essential communications
+- Export your health data
+
+## 6. Data Retention
+
+- Health data is retained as long as your account is active
+- You can request deletion of your data at any time
+- Deleted data is permanently removed from our servers within 30 days
+
+## 7. Children's Privacy
+
+The App is not intended for children under 13. We do not knowingly collect information from children under 13.
+
+## 8. Changes to This Policy
+
+We may update this Privacy Policy periodically. We will notify you of significant changes via the App or email.
+
+## 9. Contact Us
+
+For privacy-related questions or concerns, please contact:
+- **Email**: privacy@mensahealth.app
+- **Address**: [Your Company Address]
+
+## 10. Compliance
+
+This App complies with:
+- GDPR (General Data Protection Regulation)
+- CCPA (California Consumer Privacy Act)
+- HIPAA (Health Insurance Portability and Accountability Act)
+- Local data protection laws
+
+---
+
+**By using the Mensa App, you acknowledge that you have read and understood this Privacy Policy.**
