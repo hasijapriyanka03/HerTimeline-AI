@@ -1,0 +1,3 @@
+@echo off
+echo Starting Notification Test Server...
+node test-notifications.js

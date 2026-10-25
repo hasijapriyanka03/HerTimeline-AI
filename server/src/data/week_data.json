@@ -1,0 +1,62 @@
+[
+  {
+    "week": 4,
+    "baby_growth": "Poppy seed size, embryo forming",
+    "body_changes": "Missed period, early pregnancy signs",
+    "tips": "Take prenatal vitamins, avoid alcohol"
+  },
+  {
+    "week": 8,
+    "baby_growth": "Raspberry size, forming fingers and toes",
+    "body_changes": "Nausea, breast tenderness, fatigue",
+    "tips": "Stay hydrated, eat small frequent meals, light walking"
+  },
+  {
+    "week": 12,
+    "baby_growth": "Lime size, reflexes developing",
+    "body_changes": "Nausea may ease, energy returning",
+    "tips": "First trimester screening, continue prenatal vitamins"
+  },
+  {
+    "week": 16,
+    "baby_growth": "Avocado size, hearing developing",
+    "body_changes": "Baby bump showing, feeling better",
+    "tips": "Stay active, pelvic floor exercises"
+  },
+  {
+    "week": 20,
+    "baby_growth": "Banana size, active movements",
+    "body_changes": "Feeling kicks, skin stretching",
+    "tips": "Moisturize skin, schedule anomaly scan"
+  },
+  {
+    "week": 24,
+    "baby_growth": "Corn size, lungs developing",
+    "body_changes": "Growing belly, possible back pain",
+    "tips": "Good posture, pregnancy pillow for sleep"
+  },
+  {
+    "week": 28,
+    "baby_growth": "Eggplant size, eyes opening",
+    "body_changes": "Third trimester begins, more frequent urination",
+    "tips": "Start childbirth classes, monitor baby movements"
+  },
+  {
+    "week": 32,
+    "baby_growth": "Squash size, gaining weight rapidly",
+    "body_changes": "Braxton Hicks contractions, shortness of breath",
+    "tips": "Rest often, prepare hospital bag"
+  },
+  {
+    "week": 36,
+    "baby_growth": "Papaya size, head down position",
+    "body_changes": "Pelvic pressure, frequent bathroom trips",
+    "tips": "Weekly checkups, finalize birth plan"
+  },
+  {
+    "week": 40,
+    "baby_growth": "Watermelon size, ready for birth",
+    "body_changes": "Labor signs may appear",
+    "tips": "Watch for contractions, stay calm and ready"
+  }
+]

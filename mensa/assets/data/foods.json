@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Milk",
+    "nutrients": ["calcium", "protein", "vitamin D"],
+    "avoid_if_allergic": ["lactose", "dairy"],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Yogurt",
+    "nutrients": ["calcium", "probiotics", "protein"],
+    "avoid_if_allergic": ["lactose", "dairy"],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Eggs",
+    "nutrients": ["protein", "choline", "vitamin B12"],
+    "avoid_if_allergic": ["eggs"],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Salmon",
+    "nutrients": ["omega-3", "protein", "vitamin D"],
+    "avoid_if_allergic": ["fish"],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Spinach",
+    "nutrients": ["iron", "folate", "fiber"],
+    "avoid_if_allergic": [],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Lentils",
+    "nutrients": ["protein", "iron", "folate"],
+    "avoid_if_allergic": [],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Oats",
+    "nutrients": ["fiber", "iron", "B vitamins"],
+    "avoid_if_allergic": ["gluten"],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Almonds",
+    "nutrients": ["healthy fats", "vitamin E", "magnesium"],
+    "avoid_if_allergic": ["nuts", "tree nuts"],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Sweet Potato",
+    "nutrients": ["vitamin A", "fiber", "potassium"],
+    "avoid_if_allergic": [],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Berries",
+    "nutrients": ["antioxidants", "vitamin C", "fiber"],
+    "avoid_if_allergic": [],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Avocado",
+    "nutrients": ["healthy fats", "folate", "potassium"],
+    "avoid_if_allergic": [],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Chicken",
+    "nutrients": ["protein", "B vitamins", "iron"],
+    "avoid_if_allergic": [],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Cheese",
+    "nutrients": ["calcium", "protein", "vitamin B12"],
+    "avoid_if_allergic": ["lactose", "dairy"],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Broccoli",
+    "nutrients": ["vitamin C", "folate", "calcium"],
+    "avoid_if_allergic": [],
+    "trimester": [1, 2, 3]
+  },
+  {
+    "name": "Whole Grain Bread",
+    "nutrients": ["fiber", "B vitamins", "iron"],
+    "avoid_if_allergic": ["gluten", "wheat"],
+    "trimester": [1, 2, 3]
+  }
+]

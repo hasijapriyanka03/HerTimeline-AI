@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Is coffee safe during pregnancy?",
+    "answer": "Limit caffeine to under 200mg per day (about one 12oz cup of coffee). Excessive caffeine may increase miscarriage risk.",
+    "category": "nutrition"
+  },
+  {
+    "question": "What foods should I avoid?",
+    "answer": "Avoid: raw/undercooked meat, unpasteurized dairy, raw eggs, high-mercury fish (shark, swordfish), deli meats unless heated, and unwashed produce.",
+    "category": "nutrition"
+  },
+  {
+    "question": "Can I exercise during pregnancy?",
+    "answer": "Yes! Moderate exercise like walking, swimming, and prenatal yoga is beneficial. Avoid contact sports and activities with fall risk. Always consult your doctor first.",
+    "category": "wellness"
+  },
+  {
+    "question": "How much weight should I gain?",
+    "answer": "Depends on pre-pregnancy BMI. Generally: underweight (28-40 lbs), normal weight (25-35 lbs), overweight (15-25 lbs), obese (11-20 lbs).",
+    "category": "health"
+  },
+  {
+    "question": "When will I feel baby move?",
+    "answer": "First-time moms typically feel movement between 18-25 weeks. Second-time moms may feel it earlier, around 16 weeks.",
+    "category": "baby"
+  },
+  {
+    "question": "Is it normal to have mood swings?",
+    "answer": "Yes, hormonal changes cause mood swings. If you feel persistently sad or anxious, talk to your healthcare provider about perinatal depression.",
+    "category": "emotional"
+  },
+  {
+    "question": "How can I reduce morning sickness?",
+    "answer": "Eat small frequent meals, avoid strong smells, try ginger tea, stay hydrated, eat crackers before getting up, and get plenty of rest.",
+    "category": "symptoms"
+  },
+  {
+    "question": "When should I call my doctor?",
+    "answer": "Call immediately for: bleeding, severe pain, fluid leakage, reduced fetal movement, severe headache with vision changes, or high fever.",
+    "category": "emergency"
+  },
+  {
+    "question": "Can I travel during pregnancy?",
+    "answer": "Generally safe during second trimester. Avoid travel after 36 weeks. Stay hydrated, move regularly, and consult your doctor before long trips.",
+    "category": "lifestyle"
+  },
+  {
+    "question": "What prenatal vitamins do I need?",
+    "answer": "Take a prenatal vitamin with at least 400-800 mcg folic acid, iron, calcium, vitamin D, and DHA. Start before conception if possible.",
+    "category": "nutrition"
+  }
+]

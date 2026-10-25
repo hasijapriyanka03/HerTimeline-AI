@@ -1,0 +1,52 @@
+{
+  "week_4": {
+    "common": ["fatigue", "breast tenderness", "mild cramping"],
+    "warning": ["heavy bleeding", "severe cramping"],
+    "critical": ["severe abdominal pain", "dizziness with bleeding"]
+  },
+  "week_8": {
+    "common": ["nausea", "fatigue", "breast soreness", "frequent urination"],
+    "warning": ["persistent vomiting", "dehydration", "weight loss"],
+    "critical": ["severe abdominal pain", "bleeding", "high fever"]
+  },
+  "week_12": {
+    "common": ["nausea easing", "fatigue", "headaches", "constipation"],
+    "warning": ["persistent severe headaches", "vision changes"],
+    "critical": ["severe bleeding", "severe abdominal pain", "fever over 101°F"]
+  },
+  "week_16": {
+    "common": ["increased energy", "round ligament pain", "nasal congestion"],
+    "warning": ["persistent pelvic pain", "unusual discharge"],
+    "critical": ["bleeding", "severe pain", "fluid leakage"]
+  },
+  "week_20": {
+    "common": ["baby movements", "back pain", "leg cramps", "heartburn"],
+    "warning": ["reduced fetal movement", "severe swelling"],
+    "critical": ["no fetal movement for 24 hours", "severe headache with vision changes"]
+  },
+  "week_24": {
+    "common": ["back pain", "leg cramps", "Braxton Hicks", "swollen feet"],
+    "warning": ["sudden severe swelling", "persistent headaches"],
+    "critical": ["severe abdominal pain", "bleeding", "signs of preterm labor"]
+  },
+  "week_28": {
+    "common": ["shortness of breath", "frequent urination", "back pain", "fatigue"],
+    "warning": ["reduced fetal movement", "severe swelling in face/hands"],
+    "critical": ["no fetal movement", "severe headache", "vision changes", "upper abdominal pain"]
+  },
+  "week_32": {
+    "common": ["Braxton Hicks", "pelvic pressure", "heartburn", "insomnia"],
+    "warning": ["regular contractions", "fluid leakage", "severe swelling"],
+    "critical": ["signs of preterm labor", "bleeding", "severe pain"]
+  },
+  "week_36": {
+    "common": ["pelvic pressure", "frequent urination", "Braxton Hicks", "fatigue"],
+    "warning": ["regular contractions before 37 weeks", "decreased fetal movement"],
+    "critical": ["water breaking", "bleeding", "severe pain", "no fetal movement"]
+  },
+  "week_40": {
+    "common": ["contractions", "pelvic pressure", "mucus plug loss", "nesting instinct"],
+    "warning": ["decreased fetal movement", "persistent contractions"],
+    "critical": ["water breaking", "bleeding", "severe pain", "no fetal movement for hours"]
+  }
+}
