@@ -79,3 +79,5 @@ server/data/db.json
 
 # Misc
 .metadata
+key_and_secret.txt
+google-services.json
